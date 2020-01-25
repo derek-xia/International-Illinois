@@ -1,0 +1,1 @@
+An interactive pie chart showing how international student enrollments by country at UIUC have changed over time. This visualization was developed for a group project at UIUC for CS 296-Data Visualization with three other teammates. Dataset was sourced from the UIUC DMI and formatted and cleaned using Python.
